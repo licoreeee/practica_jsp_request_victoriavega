@@ -1,0 +1,3 @@
+com\mycompany\ejemploweb\JakartaRestConfiguration.class
+com\mycompany\ejemploweb\resources\JakartaEE10Resource.class
+servlet\RegistroUsuario.class
